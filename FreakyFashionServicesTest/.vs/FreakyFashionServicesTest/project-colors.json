@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cdf584ad-d5a7-48b4-92c4-fcc5afb71d8b": {
+      "ProjectGuid": "cdf584ad-d5a7-48b4-92c4-fcc5afb71d8b",
+      "DisplayName": "FreakyFashionServicesTest.StockService",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "073111ad-bce2-4921-9231-c8bd7ebd04c0": {
+      "ProjectGuid": "073111ad-bce2-4921-9231-c8bd7ebd04c0",
+      "DisplayName": "CatalogService",
+      "ColorIndex": 1
+    },
+    "257b9976-c20e-46b7-899a-5d52586fd2fd": {
+      "ProjectGuid": "257b9976-c20e-46b7-899a-5d52586fd2fd",
+      "DisplayName": "BasketService",
+      "ColorIndex": 2
+    },
+    "1054cd25-8082-4b58-9416-d45e3c1ace74": {
+      "ProjectGuid": "1054cd25-8082-4b58-9416-d45e3c1ace74",
+      "DisplayName": "OrderService",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

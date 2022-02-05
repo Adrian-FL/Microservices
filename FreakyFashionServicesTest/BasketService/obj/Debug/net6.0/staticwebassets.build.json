@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "BuBiIAyhX3oJrlYhOFZIIarHmudWhGQyVOmtolGkCS0=",
+  "Source": "BasketService",
+  "BasePath": "_content/BasketService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\WorkSpace\\ECUtbildning\\MicroServices\\Test\\FreakyFashionServicesTest\\CatalogService\\CatalogService.csproj",
+      "Version": 2,
+      "Source": "CatalogService",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
